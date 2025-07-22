@@ -24,4 +24,4 @@ export default {
       copyright: 'Copyright © 2025-present ZDJKN'
     }
   }
-}
+} 
