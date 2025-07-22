@@ -1,4 +1,4 @@
-# .github/workflows/deploy.yml
+# v1.1 - Manually triggering workflow
 
 name: Deploy VitePress Site to Pages
 
